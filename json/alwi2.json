@@ -1,0 +1,21 @@
+{
+   "Ads":
+   [
+      {
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=",
+      "admob_inter": "ca-app-pub-9446944670114489/9172524693",
+      "admob_native": "ca-app-pub-9446944670114489/6797642797",
+      "startappid": "209419592",
+      "select_ads": "ADMOB",
+      "fan_inter": "399520501249376_400536131147813",
+      "fan_banner_native": "399520501249376_400537581147668",
+      "fan_native": "399520501249376_399784787889614",
+      "mopub_banner": "YOUR_PLACEMENT_ID",
+      "mopub_inter": "YOUR_PLACEMENT_ID",
+      "packagename": "com.one.alwi",
+      "interval":4
+      }
+   ]
+
+}

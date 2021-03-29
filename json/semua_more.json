@@ -1,24 +1,22 @@
 {
-
-  "More":
-  [
+  "More": [
     {
-      "id":1,
-      "judul":"Jennie Blackpink",
-      "image":"https://onedevreborn.github.io/img/bpjennie.jpg",
-      "link":"https://play.google.com/store/apps/details?id=com.one.bpjennie"
+      "id"    : 1,
+      "title" : "Jennie Blackpink",
+      "image" : "https://onedevreborn.github.io/img/bpjennie.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.bpjennie"
     },
     {
-    "id":5,
-    "judul":"Alwi Assegaf",
-    "image":"https://onedevreborn.github.io/img/alwi.jpg",
-    "link":"https://play.google.com/store/apps/details?id=com.one.alwi"
+      "id"    : 2,
+      "title" : "Alwi Assegaf",
+      "image" : "https://onedevreborn.github.io/img/alwi.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.alwi"
     },
     {
-    "id":6,
-    "judul":"Naisa Alifia Yuriza (N.A.Y)",
-    "image":"https://onedevreborn.github.io/img/naisa.jpg",
-    "link":"https://play.google.com/store/apps/details?id=com.one.naisa"
+      "id"    : 3,
+      "title" : "Naisa Alifia Yuriza (N.A.Y)",
+      "image" : "https://onedevreborn.github.io/img/naisa.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.naisa"
     }
   ]
 }
