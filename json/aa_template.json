@@ -4,10 +4,10 @@
       {
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=",
+
+      "select_ads": "STARTAPP",
       "admob_inter": "YOUR_PLACEMENT_ID",
       "admob_native": "YOUR_PLACEMENT_ID",
-      "startappid": "209419592",
-      "select_ads": "ADMOB",
       
       "fan_inter": "YOUR_PLACEMENT_ID",
       "fan_banner_native": "YOUR_PLACEMENT_ID",
@@ -15,6 +15,7 @@
 
       "mopub_banner": "YOUR_PLACEMENT_ID",
       "mopub_inter": "YOUR_PLACEMENT_ID",
+      "startappid": "209419592",
       "packagename": "com.one.testapp",
       "interval":5
       }

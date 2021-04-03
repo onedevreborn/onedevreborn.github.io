@@ -2,9 +2,9 @@
   "More": [
     {
       "id"    : 1,
-      "title" : "Jennie Blackpink",
-      "image" : "https://onedevreborn.github.io/img/bpjennie.jpg",
-      "link"  : "https://play.google.com/store/apps/details?id=com.one.bpjennie"
+      "title" : "Leeteuk",
+      "image" : "https://onedevreborn.github.io/img/leeteuk.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.leeteuk"
     },
     {
       "id"    : 2,
@@ -29,6 +29,12 @@
       "title" : "Yesung",
       "image" : "https://onedevreborn.github.io/img/yesung.jpg",
       "link"  : "https://play.google.com/store/apps/details?id=com.one.yesung"
+    },
+    {
+      "id"    : 6,
+      "title" : "Lee Donghae",
+      "image" : "https://onedevreborn.github.io/img/leedonghae.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.leedonghae"
     }
   ]
 }
