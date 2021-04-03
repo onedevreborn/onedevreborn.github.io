@@ -17,6 +17,12 @@
       "title" : "Naisa Alifia Yuriza (N.A.Y)",
       "image" : "https://onedevreborn.github.io/img/naisa.jpg",
       "link"  : "https://play.google.com/store/apps/details?id=com.one.naisa"
+    },
+    {
+      "id"    : 4,
+      "title" : "Wulan dan Joko",
+      "image" : "https://onedevreborn.github.io/img/wulanjoko.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.wulan"
     }
   ]
 }
