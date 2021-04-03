@@ -8,9 +8,11 @@
       "admob_native": "YOUR_PLACEMENT_ID",
       "startappid": "209419592",
       "select_ads": "ADMOB",
+      
       "fan_inter": "YOUR_PLACEMENT_ID",
       "fan_banner_native": "YOUR_PLACEMENT_ID",
       "fan_native": "YOUR_PLACEMENT_ID",
+
       "mopub_banner": "YOUR_PLACEMENT_ID",
       "mopub_inter": "YOUR_PLACEMENT_ID",
       "packagename": "com.one.testapp",

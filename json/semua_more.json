@@ -23,6 +23,12 @@
       "title" : "Wulan dan Joko",
       "image" : "https://onedevreborn.github.io/img/wulanjoko.jpg",
       "link"  : "https://play.google.com/store/apps/details?id=com.one.wulan"
+    },
+    {
+      "id"    : 5,
+      "title" : "Yesung",
+      "image" : "https://onedevreborn.github.io/img/wulanjoko.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.wulan"
     }
   ]
 }
