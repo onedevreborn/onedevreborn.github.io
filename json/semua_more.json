@@ -35,6 +35,12 @@
       "title" : "Lee Donghae",
       "image" : "https://onedevreborn.github.io/img/leedonghae.jpg",
       "link"  : "https://play.google.com/store/apps/details?id=com.one.leedonghae"
+    },
+    {
+      "id"    : 7,
+      "title" : "Lee Min Ho",
+      "image" : "https://onedevreborn.github.io/img/leeminho.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.leeminho"
     }
   ]
 }
