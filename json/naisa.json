@@ -1,25 +1,22 @@
 {
-  "Iklan": [
+   "Ads":
+   [
       {
-      "status": "0",
-      "link": "https://play.google.com/store/apps/details?id=com.mrd.btsjin",
-      "appid": "pub-9446944670114489",
-      "admobappid": "ca-app-pub-9446944670114489~6195007563",
-      "interid": "ca-app-pub-9446944670114489/5731123073",
-      "nativeid": "ca-app-pub-9446944670114489/4658564617",
-      "startappid": "209419592",
-      "pengaturan_iklan": "4",
-      "deskripsi_update": "Update this apps ?",
-      "link_update": "https://play.google.com/store/apps/details?id=com.one.naisa",
-      "version_app": 2,
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=",
+
+      "select_ads": "STARTAPP",
+      "admob_inter": "ca-app-pub-9446944670114489/5731123073",
+      "admob_native": "ca-app-pub-9446944670114489/4658564617",
+      
       "fan_inter": "1054510688349130_1054510731682459",
       "fan_banner_native": "1054510688349130_1054510725015793",
       "fan_native": "1054510688349130_1054510735015792",
-      "hpk_admob1": "",
-      "hpk_admob2": "",
-      "hpk_admob3": "",
-      "hpk_admob4": "",
-      "hpk_admob5": ""
+
+      "mopub_banner": "YOUR_PLACEMENT_ID",
+      "mopub_inter": "YOUR_PLACEMENT_ID",
+      "startappid": "209419592",
+      "interval":5
       }
    ]
 
