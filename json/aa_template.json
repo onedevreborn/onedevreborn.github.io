@@ -5,7 +5,7 @@
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=",
 
-      "select_ads": "STARTAPP",
+      "select_ads": "ADMOB",
       "admob_inter": "YOUR_PLACEMENT_ID",
       "admob_native": "YOUR_PLACEMENT_ID",
       
