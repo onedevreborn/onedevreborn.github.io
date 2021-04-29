@@ -9,8 +9,8 @@
       "admob_inter": "YOUR_PLACEMENT_ID",
       "admob_native": "YOUR_PLACEMENT_ID",
       
-      "fan_inter": "YOUR_PLACEMENT_ID",
       "fan_banner_native": "YOUR_PLACEMENT_ID",
+      "fan_inter": "YOUR_PLACEMENT_ID",
       "fan_native": "YOUR_PLACEMENT_ID",
 
       "mopub_banner": "YOUR_PLACEMENT_ID",
