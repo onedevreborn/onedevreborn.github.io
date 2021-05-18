@@ -2,45 +2,213 @@
   "More": [
     {
       "id"    : 1,
-      "title" : "Leeteuk",
-      "image" : "https://onedevreborn.github.io/img/leeteuk.jpg",
-      "link"  : "https://play.google.com/store/apps/details?id=com.one.leeteuk"
+      "title" : "Billie Eilish",
+      "image" : "https://onedevreborn.github.io/img/al_billieeilish.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.billieeilish"
     },
     {
       "id"    : 2,
-      "title" : "Alwi Assegaf",
-      "image" : "https://onedevreborn.github.io/img/alwi.jpg",
-      "link"  : "https://play.google.com/store/apps/details?id=com.one.alwi"
+      "title" : "Felipe Neto",
+      "image" : "https://onedevreborn.github.io/img/al_felipeneto.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.felipeneto"
     },
     {
       "id"    : 3,
-      "title" : "Naisa Alifia Yuriza (N.A.Y)",
-      "image" : "https://onedevreborn.github.io/img/naisa.jpg",
-      "link"  : "https://play.google.com/store/apps/details?id=com.one.naisa"
+      "title" : "Katy Perry",
+      "image" : "https://onedevreborn.github.io/img/al_katyperry.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.katyperryvideocall"
     },
     {
       "id"    : 4,
-      "title" : "Wulan dan Joko",
-      "image" : "https://onedevreborn.github.io/img/wulanjoko.jpg",
-      "link"  : "https://play.google.com/store/apps/details?id=com.one.wulan"
+      "title" : "Taylor Swift",
+      "image" : "https://onedevreborn.github.io/img/al_taylorswift.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.taylorswiftvideocall"
     },
     {
       "id"    : 5,
-      "title" : "Yesung",
-      "image" : "https://onedevreborn.github.io/img/yesung.jpg",
-      "link"  : "https://play.google.com/store/apps/details?id=com.one.yesung"
+      "title" : "Alwi Assegaf",
+      "image" : "https://onedevreborn.github.io/img/id_alwi.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.alwi"
     },
     {
       "id"    : 6,
-      "title" : "Lee Donghae",
-      "image" : "https://onedevreborn.github.io/img/leedonghae.jpg",
-      "link"  : "https://play.google.com/store/apps/details?id=com.one.leedonghae"
+      "title" : "Ayu Ting Ting",
+      "image" : "https://onedevreborn.github.io/img/id_ayutingting.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.ayutingting"
     },
     {
       "id"    : 7,
+      "title" : "BTR Ryzen",
+      "image" : "https://onedevreborn.github.io/img/id_btrryzen.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.btrryzen"
+    },
+    {
+      "id"    : 8,
+      "title" : "Ghea Youbi",
+      "image" : "https://onedevreborn.github.io/img/id_gheayoubi.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.gheayoubi"
+    },
+    {
+      "id"    : 9,
+      "title" : "Iqbaal Ramadhan",
+      "image" : "https://onedevreborn.github.io/img/id_iqbaalramadhan.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.iqbaalramadhan"
+    },
+    {
+      "id"    : 10,
+      "title" : "Nagita Slavina (Gigi)",
+      "image" : "https://onedevreborn.github.io/img/id_nagitaslavina.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.nagitaslavina"
+    },
+    {
+      "id"    : 11,
+      "title" : "Raffi Ahmad",
+      "image" : "https://onedevreborn.github.io/img/id_raffiahmad.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.raffiahmadvideocall"
+    },
+    {
+      "id"    : 12,
+      "title" : "N.A.Y Naisa Alifia Yuriza",
+      "image" : "https://onedevreborn.github.io/img/id_naisa.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.naisa"
+    },
+    {
+      "id"    : 13,
+      "title" : "Nella Kharisma",
+      "image" : "https://onedevreborn.github.io/img/id_nellakharisma.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.nellakharismavideocall"
+    },
+    {
+      "id"    : 14,
+      "title" : "Prilly Latuconsina",
+      "image" : "https://onedevreborn.github.io/img/id_prillylatuconsina.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.prillylatuconsina"
+    },
+    {
+      "id"    : 15,
+      "title" : "Sule Prikitiew",
+      "image" : "https://onedevreborn.github.io/img/id_sule.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.suleprikitiew"
+    },
+    {
+      "id"    : 16,
+      "title" : "Syakir Daulay",
+      "image" : "https://onedevreborn.github.io/img/id_syakirdaulay.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.syakirdaulay"
+    },
+    {
+      "id"    : 17,
+      "title" : "Wika Salim",
+      "image" : "https://onedevreborn.github.io/img/id_wikasalim.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.wikasalim"
+    },
+    {
+      "id"    : 18,
+      "title" : "Wulan dan Joko",
+      "image" : "https://onedevreborn.github.io/img/id_wulanjoko.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.wulan"
+    },
+    {
+      "id"    : 19,
+      "title" : "Zoe Abbas Jackson",
+      "image" : "https://onedevreborn.github.io/img/id_zoeabbasjackson.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.zoeabbasjackson"
+    },
+    {
+      "id"    : 20,
+      "title" : "Ashish Chanchlani",
+      "image" : "https://onedevreborn.github.io/img/ida_ashishchanchlani.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.ashishchanchlani"
+    },
+    {
+      "id"    : 21,
+      "title" : "CarryMinati (Ajey Nagar)",
+      "image" : "https://onedevreborn.github.io/img/ida_carryminati.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.carryminati"
+    },
+    {
+      "id"    : 22,
+      "title" : "Cha Eun-woo",
+      "image" : "https://onedevreborn.github.io/img/kr_chaeunwoo.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.chaeunwoo"
+    },
+    {
+      "id"    : 23,
+      "title" : "Lee Donghae",
+      "image" : "https://onedevreborn.github.io/img/kr_leedonghae.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.leedonghae"
+    },
+    {
+      "id"    : 24,
       "title" : "Lee Min Ho",
-      "image" : "https://onedevreborn.github.io/img/leeminho.jpg",
+      "image" : "https://onedevreborn.github.io/img/kr_leeminho.jpg",
       "link"  : "https://play.google.com/store/apps/details?id=com.one.leeminho"
+    },
+    {
+      "id"    : 25,
+      "title" : "Leeteuk",
+      "image" : "https://onedevreborn.github.io/img/kr_leeteuk.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.leeteuk"
+    },
+    {
+      "id"    : 26,
+      "title" : "Hyoyeon SNSD",
+      "image" : "https://onedevreborn.github.io/img/kr_snsdhyoyeon.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.snsdhyoyeon"
+    },
+    {
+      "id"    : 27,
+      "title" : "Jessica Jung SNSD",
+      "image" : "https://onedevreborn.github.io/img/kr_snsdjessicajung.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.snsdjessicajung"
+    },
+    {
+      "id"    : 28,
+      "title" : "Seohyun SNSD",
+      "image" : "https://onedevreborn.github.io/img/kr_snsdseohyun.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.snsdseohyun"
+    },
+    {
+      "id"    : 29,
+      "title" : "Sooyoung SNSD",
+      "image" : "https://onedevreborn.github.io/img/kr_snsdsooyoung.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.snsdsooyoung"
+    },
+    {
+      "id"    : 30,
+      "title" : "Sunny SNSD",
+      "image" : "https://onedevreborn.github.io/img/kr_snsdsunny.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.snsdsunny"
+    },
+    {
+      "id"    : 31,
+      "title" : "Tiffany SNSD",
+      "image" : "https://onedevreborn.github.io/img/kr_snsdtiffany.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.snsdtiffany"
+    },
+    {
+      "id"    : 32,
+      "title" : "Taeyeon SNSD",
+      "image" : "https://onedevreborn.github.io/img/kr_snsdtaeyeon.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.snsdtaeyeon"
+    },
+    {
+      "id"    : 33,
+      "title" : "Im Yoona SNSD",
+      "image" : "https://onedevreborn.github.io/img/kr_snsdyoona.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.snsdimyoona"
+    },
+    {
+      "id"    : 34,
+      "title" : "Kwon Yuri SNSD",
+      "image" : "https://onedevreborn.github.io/img/kr_snsdyuri.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.snsdkwonyuri"
+    },
+    {
+      "id"    : 35,
+      "title" : "Yesung",
+      "image" : "https://onedevreborn.github.io/img/kr_yesung.jpg",
+      "link"  : "https://play.google.com/store/apps/details?id=com.one.yesung"
     }
   ]
 }
