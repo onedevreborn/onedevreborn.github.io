@@ -5,13 +5,14 @@
       "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=",
 
-      "select_ads": "STARTAPP",
+      "select_ads": "ADMOB",
       "admob_inter": "ca-app-pub-9446944670114489/2881598458",
       "admob_native": "ca-app-pub-9446944670114489/3397453834",
       
       "fan_inter": "225973605779329_225973659112657",
       "fan_banner_native": "225973605779329_225973655779324",
       "fan_native": "225973605779329_225973662445990",
+      "keterangan": "DITOLAK_FACEBOOK",
 
       "mopub_banner": "YOUR_PLACEMENT_ID",
       "mopub_inter": "YOUR_PLACEMENT_ID",
