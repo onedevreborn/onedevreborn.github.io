@@ -5,8 +5,8 @@
       "link_redirect": "https://",
 
       "more_app":"1",
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
+      "select_main_ads": "APPLOVIN-D",
+      "select_backup_ads":"FAN",
 
       "main_ads_banner": "ca-app-pub-9446944670114489/1681373131",
       "main_ads_intertitial":"ca-app-pub-9446944670114489/9027994312",
