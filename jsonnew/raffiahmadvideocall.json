@@ -8,12 +8,12 @@
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
 
-      "main_ads_banner": "ca-app-pub-9446944670114489/7065545844",
-      "main_ads_intertitial":"ca-app-pub-9446944670114489/5374887436",
-      "native_for_admob":"ca-app-pub-9446944670114489/1435642428",
+      "main_ads_banner": "ca-app-pub-9446944670114489/2603217347",
+      "main_ads_intertitial":"ca-app-pub-9446944670114489/9419447373",
+      "native_for_admob":"ca-app-pub-9446944670114489/4051570620",
 
-      "fan_ads_banner": "3727070557350624_4468506236540382",
-      "fan_ads_intertitial":"3727070557350624_3727070670683946",
+      "fan_ads_banner": "435510980911005_587797742348994",
+      "fan_ads_intertitial":"435510980911005_435511030911000",
 
       "backup_ads_banner":"qwerty1234",
       "backup_ads_intertitial":"qwerty1234",
