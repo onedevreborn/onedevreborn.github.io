@@ -8,12 +8,12 @@
       "select_main_ads": "ADMOB",
       "select_backup_ads":"FAN",
 
-      "main_ads_banner": "ca-app-pub-9446944670114489/2603217347",
-      "main_ads_intertitial":"ca-app-pub-9446944670114489/9419447373",
-      "native_for_admob":"ca-app-pub-9446944670114489/4051570620",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "native_for_admob":"ca-app-pub-3940256099942544/2247696110",
 
-      "fan_ads_banner": "435510980911005_587797742348994",
-      "fan_ads_intertitial":"435510980911005_435511030911000",
+      "fan_ads_banner": "YOUR_PLACEMENT_ID",
+      "fan_ads_intertitial":"YOUR_PLACEMENT_ID",
 
       "backup_ads_banner":"qwerty1234",
       "backup_ads_intertitial":"qwerty1234",
