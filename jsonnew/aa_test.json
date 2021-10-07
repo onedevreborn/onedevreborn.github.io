@@ -5,12 +5,12 @@
       "link_redirect": "https://",
 
       "more_app":"1",
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "GAM",
       "select_backup_ads":"APPLOVIN-D",
 
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
-      "native_for_admob":"ca-app-pub-3940256099942544/2247696110x",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "native_for_admob":"ca-app-pub-3940256099942544/2247696110",
 
       "fan_ads_banner": "YOUR_PLACEMENT_ID",
       "fan_ads_intertitial":"YOUR_PLACEMENT_ID",

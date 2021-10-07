@@ -5,8 +5,8 @@
       "link_redirect": "https://",
 
       "more_app":"1",
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
+      "select_main_ads": "APPLOVIN-D",
+      "select_backup_ads":"FAN",
 
       "main_ads_banner": "ca-app-pub-9446944670114489/9559863151",
       "main_ads_intertitial":"ca-app-pub-9446944670114489/6971557058",
@@ -14,6 +14,7 @@
 
       "fan_ads_banner": "867127294023293_1025749908161030",
       "fan_ads_intertitial":"867127294023293_867127337356622",
+      "keterangan":"DITOLAK_FACEBOOK",
 
       "backup_ads_banner":"qwerty1234",
       "backup_ads_intertitial":"qwerty1234",
