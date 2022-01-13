@@ -2,10 +2,10 @@
    "Ads":
    [
       {
-      "status_app": "0",
-      "link_redirect": "https://play.google.com/store/apps/details?id=",
+      "status_app": "1",
+      "link_redirect": "https://play.google.com/store/apps/details?id=com.one.sarahviloid",
 
-      "select_ads": "ADMOB",
+      "select_ads": "APPLOVIN",
       "admob_inter": "ca-app-pub-9446944670114489/1117452342",
       "admob_native": "ca-app-pub-9446944670114489/7879475274",
       
