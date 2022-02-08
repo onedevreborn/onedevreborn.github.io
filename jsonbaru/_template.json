@@ -9,9 +9,6 @@
       "main_ads_intertitial"      : "YOUR_PLACEMENT_ID",
       "native_for_admob"          : "YOUR_PLACEMENT_ID",
 
-      "fan_ads_banner"            : "YOUR_PLACEMENT_ID",
-      "fan_ads_intertitial"       : "YOUR_PLACEMENT_ID",
-
       "backup_ads_banner"         : "qwerty1234",
       "backup_ads_intertitial"    : "qwerty1234",
       

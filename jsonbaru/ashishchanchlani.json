@@ -7,7 +7,7 @@
 
       "main_ads_banner"           : "ca-app-pub-9446944670114489/3021562234",
       "main_ads_intertitial"      : "ca-app-pub-9446944670114489/5312683653",
-      "native_for_admob"          : "YOUR_PLACEMENT_ID",
+      "native_for_admob"          : "NO_NATIVE",
 
       "fan_ads_banner"            : "YOUR_PLACEMENT_ID",
       "fan_ads_intertitial"       : "YOUR_PLACEMENT_ID",
