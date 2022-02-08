@@ -1,12 +1,12 @@
 {
   "Ads": [
     {
-      "more_app"                  : "1",
+      "more_app"                  : "0",
       "select_main_ads"           : "ADMOB",
       "select_backup_ads"         : "APPLOVIN-M",
 
-      "main_ads_banner"           : "ca-app-pub-9446944670114489/3021562234",
-      "main_ads_intertitial"      : "ca-app-pub-9446944670114489/5312683653",
+      "main_ads_banner"           : "ca-app-pub-9446944670114489/3035559004",
+      "main_ads_intertitial"      : "ca-app-pub-9446944670114489/9564458273",
       "native_for_admob"          : "YOUR_PLACEMENT_ID",
 
       "backup_ads_banner"         : "qwerty1234",
