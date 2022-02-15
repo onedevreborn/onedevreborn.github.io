@@ -1,12 +1,12 @@
 {
   "Ads": [
     {
-      "more_app"                  : "1",
+      "more_app"                  : "0",
       "select_main_ads"           : "ADMOB",
-      "select_backup_ads"         : "APPLOVIN-D",
+      "select_backup_ads"         : "FACEBOOK",
 
-      "main_ads_banner"           : "ca-app-pub-9446944670114489/7218362508",
-      "main_ads_intertitial"      : "ca-app-pub-9446944670114489/7420530729",
+      "main_ads_banner"           : "YOUR_PLACEMENT_ID",
+      "main_ads_intertitial"      : "YOUR_PLACEMENT_ID",
       "native_for_admob"          : "YOUR_PLACEMENT_ID",
 
       "backup_ads_banner"         : "qwerty1234",
