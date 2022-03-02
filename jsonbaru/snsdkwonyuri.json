@@ -1,0 +1,30 @@
+{
+  "Ads": [
+    {
+      "more_app"                  : "1",
+      "select_main_ads"           : "ADMOB",
+      "select_backup_ads"         : "APPLOVIN-D",
+
+      "main_ads_banner"           : "ca-app-pub-9446944670114489/6866000528",
+      "main_ads_intertitial"      : "ca-app-pub-9446944670114489/1613673845",
+      "native_for_admob"          : "YOUR_PLACEMENT_ID",
+
+      "backup_ads_banner"         : "qwerty1234",
+      "backup_ads_intertitial"    : "qwerty1234",
+      
+      "initialize_sdk"            : "",
+      "initialize_sdk_backup_ads" : "",
+
+      "interval_intertitial"      : 5,
+
+      "high_paying_keyword_1": "life insurance",
+      "high_paying_keyword_2": "health insurance",
+      "high_paying_keyword_3": "education insurance",
+      "high_paying_keyword_4": "architect",
+      "high_paying_keyword_5": "car insurance",
+
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+  ]
+}
